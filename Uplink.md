@@ -7,5 +7,7 @@ This file contains the release notes for Uplink Stratagem development
 - latest dev db restore for local development
 
 ### Changes 16042020
+ - Create customer wizard saving
+        - Step 1 complete
 
 
