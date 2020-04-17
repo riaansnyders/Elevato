@@ -10,7 +10,7 @@ This document keeps the release notes for Cardinal ASTS Integration.
 - Fixed null location configuration picked up for ClaimSync
 - Identified validation issues
 
-### Release Fulcrum.API.Release-764 16042020
+### Release Fulcrum.API.Release-765 16042020
 - Added MessageType check for compressed data
 
 
