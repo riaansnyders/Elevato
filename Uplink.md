@@ -20,5 +20,11 @@ This file contains the release notes for Uplink Stratagem development
 - Create customer wizard saving:
        - Forced Director and contact details to be expanded - to indicate these fields are mandatory on form load (Done in JSON on attributetemplates table)
 
+### Changes 19042020_2
+- Create customer wizard saving:
+		- Added warning icon style
+		- Added warning icon image
+		- Added logic to prevent from next step if current step is incomplete
+
 
 
