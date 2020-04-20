@@ -1,5 +1,20 @@
 ## Uplink Release Notes
-This file contains the release notes for Uplink Stratagem development
+This file contains the release notes for Uplink Stratagem development. Change and release notes should be logged from latest to oldest (DESC).
+
+### Changes 20042020_2
+- Create customer wizard saving:
+	- Step one completed
+	- Positive saving of devices completed
+	- Fixed incorrect error message on failure
+	- Step two and Three completed
+	- Step 4 completed
+
+### Changes 20042020_1
+- Create customer wizard saving:
+	- Fixed customer number not showing after initial save - Create Wizard
+	- Added title to warning icon with text to indicate that there is a problem with the current wizard step
+	- Made detailsCreate method async to wait for response before deciding next action
+	- Fixed flow between incomplete and completed steps
 
 ### Changes 15042020
 - Created branch develop-rs-cstakeon-sp1 (API and Portal)
@@ -25,6 +40,3 @@ This file contains the release notes for Uplink Stratagem development
 		- Added warning icon style
 		- Added warning icon image
 		- Added logic to prevent from next step if current step is incomplete
-
-
-
