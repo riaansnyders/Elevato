@@ -1,12 +1,19 @@
 ## Uplink Release Notes
 This file contains the release notes for Uplink Stratagem development. Change and release notes should be logged from latest to oldest (DESC).
 
+### Changes 20042021_3
+	- State management for Wizard
+
+### Changes 20042021_2
+	- State management for Wizard
+	- Fixed Defect - Edit of customer not loading
+
 ### Changes 20042021_1
 - Create customer wizard saving:
 	- Step 5 (Documents) completed (No validation required here)
 	- Applied layout changes for Step 6 (Completion of onboarding)
 	- Completed step 6 saving
-	
+
 
 ### Changes 20042020_2
 - Create customer wizard saving:
