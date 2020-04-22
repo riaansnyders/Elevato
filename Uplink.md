@@ -1,8 +1,20 @@
 ## Uplink Release Notes
 This file contains the release notes for Uplink Stratagem development. Change and release notes should be logged from latest to oldest (DESC).
 
+### Changes 20042022_1
+	- State management for Wizard
+	- Added customerwizardstate table
+	- Added spManageCustomerWizardState stored procedure
+	- Added spGetCustomerWizardState stored procedure
+	- Added passing of step to API for state saving
+
 ### Changes 20042021_3
 	- State management for Wizard
+	- Added customerwizardstate table
+	- Added spManageCustomerWizardState stored procedure
+	- Added spGetCustomerWizardState stored procedure
+	- Added passing of step to API for state saving
+
 
 ### Changes 20042021_2
 	- State management for Wizard
