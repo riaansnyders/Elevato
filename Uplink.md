@@ -1,6 +1,10 @@
 ## Uplink Release Notes
 This file contains the release notes for Uplink Stratagem development. Change and release notes should be logged from latest to oldest (DESC).
 
+### Changes 20042023_1
+ - Customer Take on defects:
+ 	-
+
 
 ### Changes 20042022_1
 	- State management for Wizard
