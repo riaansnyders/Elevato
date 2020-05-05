@@ -16,6 +16,11 @@ This document keeps the release notes for Cardinal ASTS Integration.
 
 ## FlexiService / Console
 
+## Release 05052020_1
+-A_005_02
+-A_010_01
+-A_013_02
+
 ## Release 24042020_1
 Santam DQ Issues:
 -A_005_02
