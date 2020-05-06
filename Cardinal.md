@@ -16,6 +16,13 @@ This document keeps the release notes for Cardinal ASTS Integration.
 
 ## FlexiService / Console
 
+## Release 06052020_1
+- A_025_01
+- A_150_01
+- A_003_01
+- A_032_01
+- A_032_02
+
 ## Release 05052020_1
 -A_005_02
 -A_010_01
