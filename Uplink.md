@@ -1,10 +1,12 @@
 ## Uplink Release Notes
 This file contains the release notes for Uplink Stratagem development. Change and release notes should be logged from latest to oldest (DESC).
 
-### Changes 20042023_1
+### Changes 2005207_1
  - Customer Take on defects:
- 	-
-
+ 	- Server Error on Onboarding Page
+  - Server Error Onboarding Completed
+  - OnBoarding button not showing
+  
 
 ### Changes 20042022_1
 	- State management for Wizard
